@@ -14,7 +14,6 @@ export default function Navigate() {
     return (
         <Routes>
             <Route path="/" element={<Index />} >
-                {/* <Route path="/a" element={<div>aaa</div>} /> */}
                 <Route path="/productlist" element={<ProductList />} />
                 <Route path="/women" element={<Women />} />
                 <Route path="/men" element={<Men />} />
