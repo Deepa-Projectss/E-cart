@@ -1,0 +1,29 @@
+.totalCart-value{
+   background: #FFCC7F;
+   height: 200px;
+   width: 245px;
+   border-radius: 10px;
+}
+.cart-heading{
+    font-family: 'Noto-Sans-Bold';
+    font-size: 20px;
+    margin-left: 5%;
+}
+.sub-total,.discount{
+    font-family: 'Noto-Sans-Regular';
+    font-size: 15px;
+    margin-left: 5%;
+}
+.cart-total{
+    font-family: 'Noto-Sans-Bold';
+    font-size: 15px;
+    margin-left: 5%;
+}
+.apply-btn{
+    height: 34px;
+    width: 94%;
+    border-radius: 10px;
+    border: none;
+    margin-left: 6px;
+    font-family: 'Noto-Sans-Bold';
+}

@@ -1,0 +1,40 @@
+{
+    "mens":[
+        {
+          "id": 1,
+          "img": "shoeImg1",
+          "title": "Puma",
+          "price": "$2500"
+        },
+        {
+          "id": 2,
+          "img": "shoeImg2",
+          "title": "Nick",
+          "price": "$2000"
+        },
+        {
+          "id": 3,
+          "img": "shoeImg3",
+          "title": "Reebok'",
+          "price": "$2500"
+        },
+        {
+          "id": 4,
+          "img": "shoeImg1",
+          "title": "Puma",
+          "price": "$3500"
+        },
+        {
+          "id": 5,
+          "img": "shoeImg2",
+          "title": "Nick",
+          "price": "$2800"
+        },
+        {
+          "id": 6,
+          "img": "shoeImg3",
+          "title": "Reebok",
+          "price": "$4500"
+        }
+      ]
+}

@@ -1,0 +1,103 @@
+.shop-cart {
+    overflow: hidden;
+    border: 1px solid #fff7f7;
+    border-radius: 20px;
+    background-color: white;
+    width: 71%;
+    margin-left: 2%;
+    margin-right: 3%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+}
+
+.product-col {
+    margin-top: 2%;
+    margin-left: 13%;
+    font-family: 'Noto-Sans-Bold';
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.price-col {
+    margin-top: 2%;
+    margin-left: 13%;
+    font-family: 'Noto-Sans-Bold';
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.quantity-col {
+    margin-top: 2%;
+    margin-left: 6%;
+    font-family: 'Noto-Sans-Bold';
+    font-size: 18px;
+}
+
+.total-col {
+    margin-top: 2%;
+    margin-left: 15%;
+    font-family: 'Noto-Sans-Bold';
+    font-size: 18px;
+}
+
+.item-detail {
+    display: flex;
+    align-items: center;
+}
+
+.cart-imgs {
+    width: 120px;
+    height: 150px;
+    border-radius: 10px;
+    border: 1px solid #c5baba;
+    margin-left: 5%;
+}
+
+.item-names {
+    font-weight: bold;
+    text-align: center;
+}
+
+.item-price {
+    margin-left: 15%;
+    margin-top: 50px;
+    font-size: 16px;
+    height: 160px;
+}
+
+.quantities {
+    margin-top: 35px;
+    height: 160px;
+    margin-left: -114%
+}
+
+.horizontal-lines {
+    width: 300%;
+    height: 1px;
+    background-color: #ccc;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.total-price {
+    margin-top: 50px;
+    height: 160px;
+    margin-left: 100px;
+    font-size: 16px;
+    color: #ffaa80;
+    font-weight: 500;
+}
+.colors{
+    font-family:"Noto-Sans-Regular" ;
+    font-size: 15px;
+    color: grey;
+    height: 0px;
+    margin-left: 0px;
+}
+/* .sizes{
+    font-family:"Noto-Sans-Regular" ;
+    font-size: 15px;
+    color: grey;
+    /* height: 0px; */
+    /* margin-left: 0px; */
+/* } */

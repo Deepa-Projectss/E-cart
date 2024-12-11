@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Cormorant-Bold-Italic" ;
+    src: url("../font/Cormorant-BoldItalic.ttf") format("woff2") ;
+}
+
+@font-face {
+    font-family: "NotoSans-Bold";
+    src: url("../font/NotoSans-Bold.ttf") format("woff2") ;
+}
+
+@font-face {
+    font-family: "Noto-Sans-Bold";
+    src: url("../font/NotoSans_Condensed-Bold.ttf") format("woff2") ;
+}
+@font-face {
+    font-family: "Noto-Sans-Regular";
+    src: url("../font/NotoSans-Regular.ttf") format("woff2");
+}
